@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.0.2)-1*
-G04 #@! TF.CreationDate,2019-04-02T21:27:11-07:00*
+G04 #@! TF.CreationDate,2019-04-02T22:15:29-07:00*
 G04 #@! TF.ProjectId,5670-6922-adapter,35363730-2d36-4393-9232-2d6164617074,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.0.2)-1) date 4/2/2019 9:27:11 PM*
+G04 Created by KiCad (PCBNEW (5.0.2)-1) date 4/2/2019 10:15:29 PM*
 %MOMM*%
 %LPD*%
 G01*
